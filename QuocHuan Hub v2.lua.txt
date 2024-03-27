@@ -5,7 +5,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "QuocHuan Hub",
-    SubTitle = "Version 2",
+    SubTitle = "by HuanMC",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = false,
